@@ -7,5 +7,6 @@
 #include <unistd.h>
 int _printf(const char *format, ...);
 int print(char);
+int printstring(char);
 
 #endif /* MAIN_H */
